@@ -21,7 +21,7 @@ Upload a CSV with your participant list, choose the conference venue, and the to
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-org/conference-carbon-calculator.git
+git clone https://github.com/AbdallahHisham/conference-carbon-calculator.git
 cd conference-carbon-calculator
 
 # 2. Install dependencies (Python 3.10+ recommended)
