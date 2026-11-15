@@ -1,0 +1,41 @@
+city,country,attendance_mode,transport_mode
+Birmingham,United Kingdom,in_person,air
+London,United Kingdom,in_person,air
+Berlin,Germany,in_person,air
+Munich,Germany,in_person,air
+Hamburg,Germany,virtual,
+Tokyo,Japan,in_person,air
+Osaka,Japan,in_person,air
+New York,United States,in_person,air
+Boston,United States,in_person,air
+Los Angeles,United States,virtual,
+San Jose,Costa Rica,in_person,car
+Heredia,Costa Rica,in_person,car
+Paris,France,in_person,air
+Lyon,France,virtual,
+Madrid,Spain,in_person,air
+Warsaw,Poland,in_person,air
+Krakow,Poland,in_person,air
+Beijing,China,in_person,air
+Shanghai,China,virtual,
+Shenzhen,China,in_person,air
+Toronto,Canada,in_person,air
+Montreal,Canada,virtual,
+Sydney,Australia,in_person,air
+Melbourne,Australia,virtual,
+São Paulo,Brazil,in_person,air
+Mexico City,Mexico,in_person,air
+Seoul,South Korea,in_person,air
+Amsterdam,Netherlands,in_person,air
+Lisbon,Portugal,in_person,air
+Rome,Italy,in_person,air
+Vienna,Austria,virtual,
+Stockholm,Sweden,in_person,air
+Zurich,Switzerland,in_person,air
+Singapore,Singapore,in_person,air
+Mumbai,India,in_person,air
+Cairo,Egypt,virtual,
+Nairobi,Kenya,in_person,air
+Johannesburg,South Africa,in_person,air
+Auckland,New Zealand,in_person,air
+Buenos Aires,Argentina,in_person,air
