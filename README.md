@@ -1,3 +1,8 @@
+# GECCO 2026 Sustainability report
+
+The detailed sustainability report for the Genetic and Evolutionary Computation Conference (GECCO)  2026.
+
+
 # Conference Carbon Footprint Calculator 🌱
 
 A simple, interactive tool for conference organisers to estimate the **travel-related carbon emissions** of their event - in just a few clicks.
